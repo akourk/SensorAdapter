@@ -1,8 +1,6 @@
 // Author       :   Alex Kourkoumelis
 // Date         :   5/28/2019
 // Title        :   Sensor Adapter
-// Class        :   CS410, Software Engineering
-// Assignment   :   Assignment 2
 // Description  :   Utilize the Adapter Design Pattern on 3 different
 //              :   sensors to display their information using JFrame.
 
